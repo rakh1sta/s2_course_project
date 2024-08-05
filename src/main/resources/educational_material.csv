@@ -1,0 +1,11 @@
+id,itemName,price,material,size,subject
+1,Science Poster,20.0,Paper,18x24in,Science
+2,Mathematics Workbook,10.0,Paper,8.5x11in,Mathematics
+3,History Textbook,30.0,Cardstock,6x9in,History
+4,Geography Map,15.0,Paper,24x36in,Geography
+5,Language Arts Flashcards,5.0,Cardstock,3x5in,Language Arts
+6,Art Supplies Set,25.0,Various,Various,Art
+7,Music Theory Book,20.0,Paper,8.5x11in,Music
+8,Physical Education Equipment,50.0,Various,Various,Physical Education
+9,Computer Science Workbook,15.0,Paper,8.5x11in,Computer Science
+10,Crafting Materials Kit,35.0,Various,Various,Crafts

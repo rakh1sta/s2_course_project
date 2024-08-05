@@ -1,0 +1,11 @@
+id,itemName,price,material,size,contents
+1,Product Packaging Box,5.0,Cardboard,6x6x2in,Product A
+2,Gift Wrapping Paper,3.0,Paper,24x36in,Various Gifts
+3,Shipping Envelope,2.0,Plastic,9x12in,Documents
+4,Fragile Shipping Box,6.0,Cardboard,12x12x8in,Fragile Items
+5,Bubble Mailer,4.0,Bubble Wrap,10x15in,Small Items
+6,Custom Packaging,7.0,Cardboard,8x8x4in,Custom Product
+7,Mailer Box,5.0,Cardboard,6x6x4in,Various Items
+8,Food Packaging,8.0,Plastic,6x6x2in,Food Items
+9,Clothing Packaging,6.0,Cardboard,12x9x2in,Clothing Items
+10,Electronics Packaging,9.0,Cardboard,10x8x4in,Electronic Devices

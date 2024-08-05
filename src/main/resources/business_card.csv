@@ -1,0 +1,11 @@
+id,itemName,price,material,size,contactInfo
+1,Professional Business Cards,10.0,Cardstock,3.5x2in,example@email.com
+2,Customized Business Cards,15.0,Cardstock,3.5x2in,custom@example.com
+3,Executive Business Cards,20.0,Cardstock,3.5x2in,executive@example.com
+4,Creative Business Cards,12.0,Cardstock,3.5x2in,creative@example.com
+5,Modern Business Cards,14.0,Cardstock,3.5x2in,modern@example.com
+6,Minimalist Business Cards,13.0,Cardstock,3.5x2in,minimalist@example.com
+7,Artistic Business Cards,16.0,Cardstock,3.5x2in,artistic@example.com
+8,Photography Business Cards,18.0,Cardstock,3.5x2in,photography@example.com
+9,Technology Business Cards,17.0,Cardstock,3.5x2in,technology@example.com
+10,Finance Business Cards,19.0,Cardstock,3.5x2in,finance@example.com
